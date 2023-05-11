@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Nazemrap
+- 👋 Hi, I’m Corentin Damas
 - 👀 I’m interested in photography and art history
-- 🌱 I’m currently learning ... basic HTML, CSS, Java and Phyton
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript and Phyton
 - 📫 How to reach me ... corentin.damas@gmail.com
 
 <!---
